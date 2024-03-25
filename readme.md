@@ -1,11 +1,11 @@
-![GitHub contributors](https://img.shields.io/github/contributors/adarsh-goel/filestreambot-pro?style=flat&color=green)
-![GitHub repo size](https://img.shields.io/github/repo-size/adarsh-goel/filestreambot-pro?color=green)
-![GitHub](https://img.shields.io/github/license/adarsh-goel/filestreambot-pro?color=green)
+![GitHub contributors](https://img.shields.io/github/contributors/Xelcius-goel/filestreambot-pro?style=flat&color=green)
+![GitHub repo size](https://img.shields.io/github/repo-size/Xelcius-goel/filestreambot-pro?color=green)
+![GitHub](https://img.shields.io/github/license/Xelcius-goel/filestreambot-pro?color=green)
 
 
 <h1 align="center"></h1>
 <p align="center"> 
-  <img src="https://socialify.git.ci/adarsh-goel/filestreambot-pro/image?description=1&descriptionEditable=A%20very%20fast%20file%20streaming%20bot%20used%20for%20streaming%20and%20downloading%20movies&font=Source%20Code%20Pro&forks=1&issues=1&language=1&logo=https%3A%2F%2Fuser-images.githubusercontent.com%2F88939380%2F137127129-a86fc939-2931-4c66-b6f6-b57711a9eab7.png&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" alt="Cover Image" width="650">
+  <img src="https://socialify.git.ci/Xelcius-goel/filestreambot-pro/image?description=1&descriptionEditable=A%20very%20fast%20file%20streaming%20bot%20used%20for%20streaming%20and%20downloading%20movies&font=Source%20Code%20Pro&forks=1&issues=1&language=1&logo=https%3A%2F%2Fuser-images.githubusercontent.com%2F88939380%2F137127129-a86fc939-2931-4c66-b6f6-b57711a9eab7.png&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" alt="Cover Image" width="650">
   </a>
   
  <p align="center">
@@ -13,9 +13,9 @@
     <br />
    </strong></a>
     <br />
-    <a href="https://github.com/adarsh-goel/pro/issues">Report a Bug</a>
+    <a href="https://github.com/Xelcius-goel/pro/issues">Report a Bug</a>
     |
-    <a href="https://github.com/adarsh-goel/filestreambot-pro/issues">Request Feature</a>
+    <a href="https://github.com/Xelcius-goel/filestreambot-pro/issues">Request Feature</a>
   </p>
 
 
@@ -66,7 +66,7 @@
   If you are on Ubuntu, there's a 10 times easier way to deploy this bot. Just copy the command below and you're good to go.
   
   ```sh
-  apt-get update -y && apt-get upgrade -y && apt-get install curl -y && curl https://raw.githubusercontent.com/adarsh-goel/FileStreamBot-pro/main/script.sh -o script.sh && bash script.sh
+  apt-get update -y && apt-get upgrade -y && apt-get install curl -y && curl https://raw.githubusercontent.com/Xelcius-goel/FileStreamBot-pro/main/script.sh -o script.sh && bash script.sh
   ```
 
   and to stop the whole bot,
@@ -80,12 +80,12 @@
   You should make sure you have Python 3.6+ installed on your PC, then clone this repo and run the following commands in a terminal:
 
 ```py
-git clone https://github.com/adarsh-goel/filestreambot-pro
+git clone https://github.com/Xelcius-goel/filestreambot-pro
 cd filestreambot-pro
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
-python3 -m Adarsh
+python3 -m Xelcius
 ```
 
 
@@ -169,5 +169,5 @@ Bot also Supported with Channels. Just add bot Channel as Admin. If any new file
 
 ### Credits : 
 
-- [Me](https://github.com/adarsh-goel)
+- [Me](https://github.com/Xelcius-goel)
 - Everyone In This Journey !

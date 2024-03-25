@@ -1,10 +1,10 @@
-from Adarsh.bot import StreamBot
+from Xelcius.bot import StreamBot
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from pyrogram import filters
 import time
 import shutil, psutil
 from utils_bot import *
-from Adarsh import StartTime
+from Xelcius import StartTime
 
 
 START_TEXT = """ Your Telegram DC Is : `{}`  """

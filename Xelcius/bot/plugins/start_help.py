@@ -1,15 +1,15 @@
 # (c) Xelciuz 
-from Adarsh.bot import StreamBot
-from Adarsh.vars import Var
+from Xelcius.bot import StreamBot
+from Xelcius.vars import Var
 import logging
 logger = logging.getLogger(__name__)
-from Adarsh.bot.plugins.stream import MY_PASS
-from Adarsh.utils.human_readable import humanbytes
-from Adarsh.utils.database import Database
+from Xelcius.bot.plugins.stream import MY_PASS
+from Xelcius.utils.human_readable import humanbytes
+from Xelcius.utils.database import Database
 from pyrogram import filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from pyrogram.errors import UserNotParticipant
-from Adarsh.utils.file_properties import get_name, get_hash, get_media_file_size
+from Xelcius.utils.file_properties import get_name, get_hash, get_media_file_size
 db = Database(Var.DATABASE_URL, Var.name)
 from pyrogram.types import ReplyKeyboardMarkup
 
